@@ -1,1 +1,1 @@
-# MyNotebook łączenie z bazą danych mysql
+# MyNotebook connecting to the mysql database
